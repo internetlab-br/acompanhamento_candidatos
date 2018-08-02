@@ -3,14 +3,89 @@ Dados da pesquisa de 30/Julho
 
 - bolsonaro.csv
   - Dados usados para importação no Gephi para desenho da rede de retuítes em torno da hashtag "bolsonaronorodaviva" durante o programa de 30 de Julho
+- ustra.csv
+  - Dados usados para importação no Gephi para desenho da rede de retuites em torno da palavra "ustra" durante o programa.
 - ftext_bolsonaronorodaviva.csv
   - Dados usados para a criaço da nuvem de palavras relacionada ao programa
-  - palavras_removidas:
+  - Palavras removidas para a criação da nuvem de tags:
     - Bolsonaronorodaviva
     - Rt
     - Que
     - De
     - Não
     - Bolsonaro
-- ustra.csv
-  - Dados usados para importação no Gephi para desenho da rede de retuites em torno da palavra "ustra" durante o programa.
+    - Da
+    - Com
+    - Os
+    - El
+    - Co
+    - Uma
+    - Na
+    - Um
+    - Em
+    - Rodaviva
+    - Pergunta
+    - Para
+    - Eu
+    - Sobr
+    - Só
+    - Se
+    - Pra
+    - Você
+    - Como
+    - Tem
+    - Meu
+    - Mai
+    - Vai
+    - Foi
+    - Já
+    - Ess
+    - Ma
+    - Por
+    - Roda
+    - Ao
+    - Dos
+    - Viva
+    - Cara
+    - Está
+    - Vc
+    - Jair
+    - Essa
+    - Deu
+    - Jairbolsonaro
+    - Agora
+    - Tá
+    - Isso
+    - Nem
+    - Fazer
+    - Quer
+    - Estão
+    - Ninguém
+    - Todo
+    - Ser
+    - Ro
+    - Grande
+    - Pelo
+    - Dele
+    - Até
+    - Seu
+    - Sairia
+    - Muito
+    - Ver
+    - Primeiro
+    - Dizer
+    - Quem
+    - Falar
+    - Sai
+    - São
+    - Diz
+    - Saber
+    - Bolsonaronorod
+    - Nenhum
+    - Hoje
+    - Ter
+    - Sua
+    - Gent
+    - Querem
+    - Faz
+    - Nunca
